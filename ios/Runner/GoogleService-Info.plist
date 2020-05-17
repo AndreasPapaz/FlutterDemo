@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>953835062947-1d9cnn5010fj8lolsdujukqbibl7fbmo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.953835062947-1d9cnn5010fj8lolsdujukqbibl7fbmo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPczkN9tdrcSsI2wLBIXMocOOSTvFVwsE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>953835062947</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.BingeWatch</string>
+	<key>PROJECT_ID</key>
+	<string>bingewatch-b142e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bingewatch-b142e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:953835062947:ios:f434f993be5a29938c6116</string>
+	<key>DATABASE_URL</key>
+	<string>https://bingewatch-b142e.firebaseio.com</string>
+</dict>
+</plist>
